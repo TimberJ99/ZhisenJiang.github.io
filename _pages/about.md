@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Ye Guo](https://www.sigs.tsinghua.ed
 
 You can find my CV here: [Zhisen Jiang's Curriculum Vitae](../assets/CV_Zhisen_Jiang.pdf)
 
-[Email](mailto:jzs22@tsinghua.edu.cn)
+[Email](mailto:jzs22@mails.tsinghua.edu.cn)
