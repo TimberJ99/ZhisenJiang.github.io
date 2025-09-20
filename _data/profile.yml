@@ -1,89 +1,72 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Zhisen Jiang"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Zhisen Jiang's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/cuhk-sz.png" alt="The Chinese University of Hong Kong, Shenzhen" class="inline-badge"/></span> Ph.D., The Chinese University of Hong Kong, Shenzhen (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/eth_logo_kurz_pos.png" alt="ETH Zürich" class="inline-badge"/></span> Ph.D. Student, ETH Zürich (2025-Now)'
 
-email: "wang.rongsheng@outlook.com"
-gscholar: SSaBaioAAAAJ
+email: "zhijiang@ethz.ch"
+gscholar: 4Dlm4Q4AAAAJ
 # sscholar: Rongsheng-Wang/2261313297
-github: wangrongsheng
-twitter: RongshengWang
+# github: wangrongsheng
+# twitter: RongshengWang
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-zhihu: wang-rong-sheng-74
-# resume: assets/cv/Resume_RongshengWang.pdf
-# linkedin: your-linked-in-id
+# zhihu: wang-rong-sheng-74
+# resume: assets/cv/Resume_ZhisenJiang.pdf
+linkedin: zhisen-jiang-49520a281
 # orcid: 0000-0000-0000-0000
-xiaohongshu: 5fa2663000000000010068e2
+# xiaohongshu: 5fa2663000000000010068e2
 
 short_bio: >-
-  I am Rongsheng Wang, currently pursuing my PhD at <a href="https://www.cuhk.edu.cn/zh-hans" target="_blank" rel="noopener">The Chinese University of Hong Kong, Shenzhen</a>. My primary research interests lie in Large Language Models (LLMs) and Multimodal LLMs (MLLMs). I am recognized as a <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PPDE</a> and a <a href="https://www.kaggle.com/rongshengwang">Kaggle Competition Master</a>. I have been featured in <a href="https://china-ranking.32k.site/ ">China-Ranking</a> and recognized as an outstanding individual developer on GitHub in China.</br></br> I actively contribute to the open-source community on <a href="https://github.com/WangRongsheng">🔗GitHub</a> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wangrongsheng?style=flat-square">, where I’ve led or contributed to several notable projects, including <a href="https://github.com/kaixindelele/ChatPaper/stargazers" target="_blank">ChatPaper <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?color=orange" alt="GitHub Stars"></a>, <a href="https://github.com/WangRongsheng/XrayGLM/stargazers" target="_blank">XrayGLM <img src="https://img.shields.io/github/stars/WangRongsheng/XrayGLM?color=orange" alt="GitHub Stars"></a>, <a href="https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers" target="_blank">Awesome-LLM-Resources <img src="https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses?color=orange" alt="GitHub Stars"></a>, and <a href="https://github.com/FreedomIntelligence/TinyDeepSeek/stargazers" target="_blank">TinyDeepSeek <img src="https://img.shields.io/github/stars/FreedomIntelligence/TinyDeepSeek?color=orange" alt="GitHub Stars"></a>. I also share datasets and model weights from these projects on <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>, and I enjoy publishing lightweight language models on <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to support local deployment and usage.
+  I am a Ph.D. student at the <a href="https://control.ee.ethz.ch/" target="_blank" rel="noopener">Automatic Control Laboratory (IfA)</a> at <a href="https://ethz.ch/" target="_blank" rel="noopener">ETH Zürich</a>, working with <a href="https://www.bsaver.io/" target="_blank" rel="noopener">Dr. Saverio Bolognani</a> and <a href="https://dorfler.ethz.ch/" target="_blank" rel="noopener">Prof. Florian Dörfler</a>. I received my B.Eng. degree (with honors) in Electrical Engineering from <a href="https://www.ncepu.edu.cn/" target="_blank" rel="noopener">North China Electric Power University</a> and M.S. degree (with honors) in Electrical Engineering from <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener">Tsinghua University</a>, China, in 2022 and 2025, respectively.</br></br> I am interested in applying game theory and control theory to power systems. In my previous work, I designed peer-to-peer energy trading mechanisms and developed allocation methods for Dynamic Operating Envelopes in distribution networks. Currently, I am working on <strong>co-designing incentives and automation strategies</strong> for transmission and distribution network coordination. In my free time, I enjoy traveling and watching basketball games.
 
 show_portrait: true
-portrait_url: assets/images/photos/55651568.jpeg
+portrait_url: assets/images/photos/PersonalProfile.jpg
 portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+  I am Zhisen Jiang, welcome to my homepage!
 
 education:
-- name: The Chinese University of Hong Kong, Shenzhen
-  logo: assets/images/badges/cuhk-sz.png
-  position: Ph.D. in Computational Biology and Health Informatics
+- name: ETH Zürich
+  logo: assets/images/badges/eth_logo_kurz_pos.png
+  position: Ph.D. in Electrical Engineering
   date: Sep. 2025 - Now
-- name: Macao Polytechnic University
-  logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
-  logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
+- name: Tsinghua University
+  logo: assets/images/badges/tsinghua_logo.jpg
+  position: M.S. in Electrical Engineering (with honors)
+  date: Sep. 2022 - Jul. 2025
+- name: North China Electric Power University
+  logo: assets/images/badges/NCEPU_logo.jpg
+  position: B.Eng. in Electrical Engineering and its Automation (with honors)
   date: Sep. 2018 - Jul. 2022
   
 experience:
-- name: CUHK (SZ)
-  logo: assets/images/badges/cuhk-sz.png
-  position: Research Assistant (Supervisor is <a href="https://wabyking.github.io/old.html">Benyou Wang</a>)
-  date: Sep. 2024 - Sep. 2025
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+- name: ETH Zürich
+  logo: assets/images/badges/eth_logo_kurz_pos.png
+  position: Ph.D. Student (Supervisor is <a href="https://www.bsaver.io/">Dr. Saverio Bolognani</a> and <a href="https://dorfler.ethz.ch/">Prof. Florian Dörfler</a>)
+  date: Sep. 2025 - Now
+- name: TsIntergy
+  logo: assets/images/badges/tsinghua_logo.jpg
+  position: Applied Research Scientist
+  date: 2022 - 2023
 
 
 awards:
-- name: 🥇First Prize of LIC 2025
-  date: 2025
-- name: 🎫Kaggle Competitions Expert
-  date: 2025
-- name: 🥇Gold Medal of Kaggle AI Mathematical Olympiad - Progress Prize 2
-  date: 2025
-- name: 🎫Outstanding Award of JingDong Health - Global AI Innovation Competition
+- name: 🎓NCCR Automation Fellowship
   date: 2024
-- name: 🥇First Prize of Baidu PaddlePaddle AGI Hackathon
-  date: 2024
-- name: 🥉Third Prize of DiMTAIC (Organized by JingDong Health)
-  date: 2023
-- name: 🥉Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: 🥈Silver Medal of Kaggle RSNA Screening Mammography Cancer Detection
-  date: 2023
-- name: 🎫Outstanding Award of IEEE UV 2022 Object Detection Challenge
+- name: 🏆Beijing Excellent Graduate
+  date: 2025
+- name: 🥇Rank 1/46 in undergraduate studies (North China Electric Power University)
   date: 2022
-- name: 🎫<a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
+- name: 🥇Rank 1/1215 during master's program (Tsinghua University)
+  date: 2025
 
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
-- name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging (TMI)</a>
-- name: Reviewer of <a href="https://2025.ieeeicme.org/">ICME 2025</a>
+- name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid</a>
+- name: Reviewer of <a href="https://www.sciencedirect.com/journal/csee-journal-of-power-and-energy-systems">CSEE Journal of Power and Energy Systems</a>
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+  Copyright © 2025 <a href="https://github.com/ZhisenJiang" target="_blank">Zhisen Jiang</a>. All Rights Reserved.
