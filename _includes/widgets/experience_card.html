@@ -16,6 +16,9 @@
                                         <p class="my-0">{{ item.name }}</p>
                                         <p class="small my-0">{{ item.dept }}</p>
                                         <p class="small my-0">{{ item.position }} <em class="float-right">{{ item.date }}</em></p>
+                                        {% if item.note %}
+                                        <p class="small my-0 text-muted">{{ item.note }}</p>
+                                        {% endif %}
                                     </div>
                                 </li>
                                 {% endfor %}

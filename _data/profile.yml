@@ -36,10 +36,12 @@ education:
   logo: assets/images/badges/tsinghua_logo.jpg
   position: M.S. in Electrical Engineering (with honors)
   date: Sep. 2022 - Jul. 2025
+  note: Rank 1/1215 during master's program, GPA: 4.0/4.0
 - name: North China Electric Power University
   logo: assets/images/badges/NCEPU_logo.jpg
   position: B.Eng. in Electrical Engineering and its Automation (with honors)
   date: Sep. 2018 - Jul. 2022
+  note: Rank 1/46 in undergraduate studies, GPA: 94.48/100
   
 experience:
 - name: ETH Zürich
@@ -53,14 +55,16 @@ experience:
 
 
 awards:
+- name: 🏆Outstanding Graduate of Beijing (Bachelor)
+  date: 2025
+- name: 🏆Outstanding Graduate of Beijing (Master)
+  date: 2025
+- name: 🎓Tsinghua University Comprehensive Excellence Scholarship (First Class)
+  date: 2024
 - name: 🎓NCCR Automation Fellowship
   date: 2024
-- name: 🏆Beijing Excellent Graduate
-  date: 2025
-- name: 🥇Rank 1/46 in undergraduate studies (North China Electric Power University)
-  date: 2022
-- name: 🥇Rank 1/1215 during master's program (Tsinghua University)
-  date: 2025
+- name: 🥇3x National Scholarship (2019, 2020, 2021)
+  date: 2019-2021
 
 service:
 - name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid</a>

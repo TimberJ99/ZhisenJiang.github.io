@@ -38,9 +38,17 @@ Applied Research Scientist
 
 # Honors & Awards
 
-Beijing Ex
+3x National Scholarship (2019, 2020, 2021)
 
 NCCR Automation Fellowship 2024
+
+Tsinghua University Comprehensive Excellence Scholarship (First Class), 2024
+
+Outstanding Graduate of Beijing (Master), 2025
+
+Outstanding Graduate of Beijing (Bachelor), 2025
+
+
 
 # Service
 
