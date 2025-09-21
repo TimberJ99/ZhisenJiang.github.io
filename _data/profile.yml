@@ -36,12 +36,12 @@ education:
   logo: assets/images/badges/tsinghua_logo.jpg
   position: M.S. in Electrical Engineering (with honors)
   date: Sep. 2022 - Jul. 2025
-  note: Rank 1/1215 during master's program, GPA: 4.0/4.0
+  note: "Rank 1/1215 during master's program, GPA: 4.0/4.0"
 - name: North China Electric Power University
   logo: assets/images/badges/NCEPU_logo.jpg
   position: B.Eng. in Electrical Engineering and its Automation (with honors)
   date: Sep. 2018 - Jul. 2022
-  note: Rank 1/46 in undergraduate studies, GPA: 94.48/100
+  note: "Rank 1/46 in undergraduate studies, GPA: 94.48/100"
   
 experience:
 - name: ETH Zürich
