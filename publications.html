@@ -10,7 +10,7 @@ body_attr: >-
     All papers that have not been peer-reviewed will not appear here, including preprints. You can access my all of papers at <a href="https://scholar.google.com/citations?user=4Dlm4Q4AAAAJ">🔗Google Scholar</a>.
 </blockquote>
 
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.pub_date" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
