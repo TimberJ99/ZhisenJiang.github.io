@@ -20,7 +20,7 @@ linkedin: zhisen-jiang-49520a281
 # xiaohongshu: 5fa2663000000000010068e2
 
 short_bio: >-
-  I am a Ph.D. student at the <a href="https://control.ee.ethz.ch/" target="_blank" rel="noopener">Automatic Control Laboratory (IfA)</a> at <a href="https://ethz.ch/" target="_blank" rel="noopener">ETH Zürich</a>, working with <a href="https://www.bsaver.io/" target="_blank" rel="noopener">Dr. Saverio Bolognani</a> and <a href="https://dorfler.ethz.ch/" target="_blank" rel="noopener">Prof. Florian Dörfler</a>. I received my B.Eng. degree (with honors) in Electrical Engineering from <a href="https://www.ncepu.edu.cn/" target="_blank" rel="noopener">North China Electric Power University</a> and M.S. degree (with honors) in Electrical Engineering from <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener">Tsinghua University</a>, China, in 2022 and 2025, respectively.</br></br> I am interested in applying game theory and control theory to power systems. In my previous work, I designed peer-to-peer energy trading mechanisms and developed allocation methods for Dynamic Operating Envelopes in distribution networks. Currently, I am working on <strong>co-designing incentives and automation strategies</strong> for transmission and distribution network coordination. In my free time, I enjoy traveling and watching basketball games.
+  I am a Ph.D. student at the <a href="https://control.ee.ethz.ch/" target="_blank" rel="noopener">Automatic Control Laboratory (IfA)</a> at <a href="https://ethz.ch/" target="_blank" rel="noopener">ETH Zürich</a>, working with <a href="https://www.bsaver.io/" target="_blank" rel="noopener">Dr. Saverio Bolognani</a> and <a href="https://dorfler.ethz.ch/" target="_blank" rel="noopener">Prof. Florian Dörfler</a>. I received my B.Eng. degree (with honors) in Electrical Engineering from <a href="https://www.ncepu.edu.cn/" target="_blank" rel="noopener">North China Electric Power University</a> and M.S. degree (with honors) in Electrical Engineering from <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener">Tsinghua University</a>, China, in 2022 and 2025, respectively.</br></br> I am interested in applying game theory and control theory to <strong>power systems</strong>. In my previous work, I designed peer-to-peer energy trading mechanisms and developed allocation methods for Dynamic Operating Envelopes in distribution networks. Currently, I am working on <strong>co-designing incentives and automation strategies</strong> for transmission and distribution network coordination. In my free time, I enjoy traveling and watching basketball games.
 
 show_portrait: true
 portrait_url: assets/images/photos/PersonalProfile.jpg
@@ -33,7 +33,7 @@ education:
   position: Ph.D. in Electrical Engineering
   date: Sep. 2025 - Now
 - name: Tsinghua University
-  logo: assets/images/badges/tsinghua_logo.jpg
+  logo: assets/images/badges/tsinghua_logo.png
   position: M.S. in Electrical Engineering (with honors)
   date: Sep. 2022 - Jul. 2025
   note: "Rank 1/1215 during master's program, GPA: 4.0/4.0"
@@ -55,20 +55,20 @@ experience:
 
 
 awards:
-- name: 🏆Outstanding Graduate of Beijing (Bachelor)
-  date: 2025
 - name: 🏆Outstanding Graduate of Beijing (Master)
   date: 2025
 - name: 🎓Tsinghua University Comprehensive Excellence Scholarship (First Class)
   date: 2024
 - name: 🎓NCCR Automation Fellowship
   date: 2024
+- name: 🏆Outstanding Graduate of Beijing (Bachelor)
+  date: 2022
 - name: 🥇3x National Scholarship (2019, 2020, 2021)
   date: 2019-2021
 
 service:
 - name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid</a>
-- name: Reviewer of <a href="https://www.sciencedirect.com/journal/csee-journal-of-power-and-energy-systems">CSEE Journal of Power and Energy Systems</a>
+- name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7054730">CSEE Journal of Power and Energy Systems</a>
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
