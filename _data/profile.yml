@@ -46,7 +46,7 @@ education:
 experience:
 - name: ETH Zürich
   logo: assets/images/badges/eth_logo_kurz_pos.png
-  position: Ph.D. Student (Supervisor is <a href="https://www.bsaver.io/">Dr. Saverio Bolognani</a> and <a href="https://dorfler.ethz.ch/">Prof. Florian Dörfler</a>)
+  position: Ph.D. Student (Supervisor is <a href="https://dorfler.ethz.ch/">Prof. Florian Dörfler</a> and <a href="https://www.bsaver.io/">Dr. Saverio Bolognani</a>)
   date: Sep. 2025 - Now
 - name: TsIntergy
   logo: assets/images/badges/tsinghua_logo.png
@@ -57,7 +57,7 @@ experience:
 awards:
 - name: 🏆Outstanding Graduate of Beijing (Master)
   date: 2025
-- name: 🎓Tsinghua University Comprehensive Excellence Scholarship (First Class)
+- name: 🏆Tsinghua University Comprehensive Excellence Scholarship (First Class)
   date: 2024
 - name: 🎓NCCR Automation Fellowship
   date: 2024
